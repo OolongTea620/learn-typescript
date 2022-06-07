@@ -1,0 +1,23 @@
+/*
+    ts 변환 옵션 json
+*/
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true
+    }
+}
+/*
+checkJs :  //@ts-check와 같은 역할의 속성(JS의 정의 타입 검사)을 한다.
+*/
+/*
+    Typescript playground
+    :타입 스크립트 문법을 작성 시 어떤 코드로 
+        변환되는지 미리 보여주는 사이트
+
+    Babel
+    https://babeljs.io/
+    : javascript 코드를 좀 더 많은 브라우저에서 
+        동작할 수 있는 코드로 변환해주는 사이트
+*/
